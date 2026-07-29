@@ -1,5 +1,5 @@
 # Student Portal Web Application
-View Live Demo: https://dash.infinityfree.com/accounts/if0_42530194/domains/studentportal-capstone.infinityfreeapp.com
+View Live Demo: https://studentportal-capstone.infinityfreeapp.com/index.php
 
 ## Project Overview
 This Student Portal is a full-stack web application developed as a **Capstone Project** for the Backend PHP development course under the **One Million Coders Initiative** in partnership with the **Startocode Learning Platform**. 
